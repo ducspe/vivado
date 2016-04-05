@@ -1,0 +1,200 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Mon Jun 22 23:22:02 2015
+# Process ID: 9304
+# Log file: C:/Users/Dan/Desktop/Ahmed/FFT/vivado.log
+# Journal file: C:/Users/Dan/Desktop/Ahmed/FFT\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Dan/Desktop/Ahmed/FFT/FFT.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/Dan/Desktop/Ahmed/SineWave_Rom_1.0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2014.4/data/ip'.
+open_project: Time (s): cpu = 00:00:34 ; elapsed = 00:00:23 . Memory (MB): peak = 776.246 ; gain = 173.793
+open_bd_design {C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/System.bd}
+Adding component instance block -- xilinx.com:ip:xfft:9.0 - xfft_0
+Adding component instance block -- xilinx.com:ip:processing_system7:5.5 - processing_system7_0
+Adding component instance block -- xilinx.com:ip:axi_dma:7.1 - axi_dma_0
+Adding component instance block -- xilinx.com:ip:proc_sys_reset:5.0 - rst_processing_system7_0_100M
+Adding component instance block -- xilinx.com:user:SineWave_Rom:1.0 - SineWave_Rom_0
+Adding component instance block -- xilinx.com:ip:xlconstant:1.1 - xlconstant_0
+Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar
+Adding component instance block -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc
+Adding component instance block -- xilinx.com:ip:axi_dwidth_converter:2.1 - auto_us
+Adding component instance block -- xilinx.com:ip:axi_dwidth_converter:2.1 - auto_us
+Adding component instance block -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc
+Successfully read diagram <System> from BD file <C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/System.bd>
+open_bd_design: Time (s): cpu = 00:00:15 ; elapsed = 00:00:12 . Memory (MB): peak = 834.195 ; gain = 57.949
+ipx::edit_ip_in_project -upgrade true -name SineWave_Rom_v1_0_project -directory C:/Users/Dan/Desktop/Ahmed/SineWave_Rom_1.0/SineWave_Rom_v1_0_project c:/Users/Dan/Desktop/Ahmed/SineWave_Rom_1.0/component.xml
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2014.4/data/ip'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/Dan/Desktop/Ahmed/SineWave_Rom_1.0'.
+ipx::edit_ip_in_project: Time (s): cpu = 00:00:09 ; elapsed = 00:00:05 . Memory (MB): peak = 951.750 ; gain = 22.535
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+launch_runs synth_1
+INFO: [HDL 9-1061] Parsing VHDL file "c:/users/dan/desktop/ahmed/sinewave_rom_1.0/hdl/SineWave_Rom_v1_0.vhd" into library xil_defaultlib [c:/users/dan/desktop/ahmed/sinewave_rom_1.0/hdl/SineWave_Rom_v1_0.vhd:1]
+[Mon Jun 22 23:45:32 2015] Launched synth_1...
+Run output will be captured here: c:/users/dan/desktop/ahmed/sinewave_rom_1.0/sinewave_rom_v1_0_project/SineWave_Rom_v1_0_project.runs/synth_1/runme.log
+ipx::merge_project_changes files [ipx::current_core]
+ipx::merge_project_changes ports [ipx::current_core]
+INFO: [IP_Flow 19-2418] Expression "((C_M00_AXIS_TDATA_WIDTH / 8) - 1)": Will not convert operator '/' to XPATH 'div' to allow integer division if applicable.
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_ip_instances -delete_project true
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/Dan/Desktop/Ahmed/SineWave_Rom_1.0'.
+update_ip_catalog: Time (s): cpu = 00:00:09 ; elapsed = 00:00:05 . Memory (MB): peak = 1014.629 ; gain = 0.000
+INFO: [IP_Flow 19-3422] Upgraded System_SineWave_Rom_0_0 (SineWave_Rom_v1.0 1.0) from revision 3 to revision 4
+INFO: [IP_Flow 19-3471] Wrote upgrade log to 'c:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/ip/System_SineWave_Rom_0_0/System_SineWave_Rom_0_0.upgrade_log'.
+Wrote  : <C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/System.bd> 
+ipx::update_ip_instances: Time (s): cpu = 00:00:17 ; elapsed = 00:00:12 . Memory (MB): peak = 1014.629 ; gain = 0.000
+startgroup
+set_property -dict [list CONFIG.transform_length {1024} CONFIG.number_of_stages_using_block_ram_for_data_and_phase_factors {3}] [get_bd_cells xfft_0]
+endgroup
+save_bd_design
+Wrote  : <C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/System.bd> 
+ipx::edit_ip_in_project -upgrade true -name SineWave_Rom_v1_0_project -directory C:/Users/Dan/Desktop/Ahmed/SineWave_Rom_1.0/SineWave_Rom_v1_0_project c:/Users/Dan/Desktop/Ahmed/SineWave_Rom_1.0/component.xml
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2014.4/data/ip'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/Dan/Desktop/Ahmed/SineWave_Rom_1.0'.
+update_compile_order -fileset sim_1
+launch_runs synth_1
+INFO: [HDL 9-1061] Parsing VHDL file "c:/users/dan/desktop/ahmed/sinewave_rom_1.0/hdl/SineWave_Rom_v1_0.vhd" into library xil_defaultlib [c:/users/dan/desktop/ahmed/sinewave_rom_1.0/hdl/SineWave_Rom_v1_0.vhd:1]
+[Tue Jun 23 00:11:32 2015] Launched synth_1...
+Run output will be captured here: c:/users/dan/desktop/ahmed/sinewave_rom_1.0/sinewave_rom_v1_0_project/SineWave_Rom_v1_0_project.runs/synth_1/runme.log
+ipx::merge_project_changes hdl_parameters [ipx::current_core]
+INFO: [IP_Flow 19-2418] Expression "((C_M00_AXIS_TDATA_WIDTH / 8) - 1)": Will not convert operator '/' to XPATH 'div' to allow integer division if applicable.
+ipx::update_ip_instances -delete_project true
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/Dan/Desktop/Ahmed/SineWave_Rom_1.0'.
+update_ip_catalog: Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 1106.797 ; gain = 0.000
+INFO: [IP_Flow 19-3422] Upgraded System_SineWave_Rom_0_0 (SineWave_Rom_v1.0 1.0) from revision 4 to revision 5
+INFO: [IP_Flow 19-3471] Wrote upgrade log to 'c:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/ip/System_SineWave_Rom_0_0/System_SineWave_Rom_0_0.upgrade_log'.
+Wrote  : <C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/System.bd> 
+ipx::update_ip_instances: Time (s): cpu = 00:00:12 ; elapsed = 00:00:11 . Memory (MB): peak = 1106.797 ; gain = 0.000
+reset_run synth_1
+launch_runs synth_1
+INFO: [HDL 9-1061] Parsing VHDL file "C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/hdl/System_wrapper.vhd" into library xil_defaultlib [C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/hdl/System_wrapper.vhd:1]
+INFO: [HDL 9-1061] Parsing VHDL file "C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/hdl/System.vhd" into library xil_defaultlib [C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/hdl/System.vhd:1]
+INFO: [Ipptcl 7-578] No Compatible Board Interface found.Board Tab not created
+INFO: [xilinx.com:ip:xfft:9.0-913] /xfft_0 data_format has been set to manual on the GUI. It will not be updated during validation with a propagated value.
+INFO: [xilinx.com:ip:xfft:9.0-913] /xfft_0 input_width has been set to manual on the GUI. It will not be updated during validation with a propagated value.
+CRITICAL WARNING: [BD 41-759] The input pins (listed below) are either not connected or do not have a source port, and they don't have a tie-off specified. 
+Please check your design and connect them if needed: 
+/xfft_0/s_axis_config_tdata
+/xfft_0/s_axis_config_tvalid
+
+INFO: [BD 41-1378] This design does not contain any "MEMORY" mapped segment for processor processing_system7_0
+INFO: [BD 41-1378] This design does not contain any "MEMORY" mapped segment for processor processing_system7_0
+INFO: [BD 41-1378] This design does not contain any "MEMORY" mapped segment for processor processing_system7_0
+Generated Block Design Tcl file C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/hw_handoff/System_bd.tcl
+Exporting to file C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/hw_handoff/System.hwh
+WARNING: [BD 41-235] Width mismatch when connecting pin: '/axi_mem_intercon/M00_AXI_bid'(1) to net 'axi_mem_intercon_M00_AXI_BID'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-235] Width mismatch when connecting pin: '/axi_mem_intercon/M00_AXI_rid'(1) to net 'axi_mem_intercon_M00_AXI_RID'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-235] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_WID'(6) to net 'axi_mem_intercon_M00_AXI_WID'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-235] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_ARID'(6) to net 'axi_mem_intercon_M00_AXI_ARID'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-235] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_AWID'(6) to net 'axi_mem_intercon_M00_AXI_AWID'(1) - Only lower order bits will be connected.
+VHDL Output written to : System.vhd
+VHDL Output written to : System_wrapper.vhd
+Wrote  : <C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/System.bd> 
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'System_xfft_0_0'...
+INFO: [BD 41-1029] Generation completed for the IP Integrator block xfft_0 .
+INFO: [IP_Flow 19-1706] Not generating 'Synthesis' target for IP 'System_processing_system7_0_0'. Target already exists and is up to date.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block processing_system7_0 .
+INFO: [IP_Flow 19-1706] Not generating 'Synthesis' target for IP 'System_axi_dma_0_0'. Target already exists and is up to date.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_dma_0 .
+INFO: [IP_Flow 19-1706] Not generating 'Synthesis' target for IP 'System_rst_processing_system7_0_100M_0'. Target already exists and is up to date.
+INFO: [IP_Flow 19-1706] Not generating 'Implementation' target for IP 'System_rst_processing_system7_0_100M_0'. Target already exists and is up to date.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block rst_processing_system7_0_100M .
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'System_SineWave_Rom_0_0'...
+INFO: [BD 41-1029] Generation completed for the IP Integrator block SineWave_Rom_0 .
+INFO: [IP_Flow 19-1706] Not generating 'Synthesis' target for IP 'System_xbar_0'. Target already exists and is up to date.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon/xbar .
+INFO: [IP_Flow 19-1706] Not generating 'Synthesis' target for IP 'System_xlconstant_0_0'. Target already exists and is up to date.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block xlconstant_0 .
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'System_auto_pc_0'...
+WARNING: [IP_Flow 19-1687] The current project language is set to VHDL. However IP 'System_auto_pc_0' does not support 'VHDL Synthesis' output products, delivering 'Verilog Synthesis' output products instead.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block processing_system7_0_axi_periph/s00_couplers/auto_pc .
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'System_auto_pc_1'...
+WARNING: [IP_Flow 19-1687] The current project language is set to VHDL. However IP 'System_auto_pc_1' does not support 'VHDL Synthesis' output products, delivering 'Verilog Synthesis' output products instead.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon/m00_couplers/auto_pc .
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'System_auto_us_0'...
+WARNING: [IP_Flow 19-1687] The current project language is set to VHDL. However IP 'System_auto_us_0' does not support 'VHDL Synthesis' output products, delivering 'Verilog Synthesis' output products instead.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon/s00_couplers/auto_us .
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'System_auto_us_1'...
+WARNING: [IP_Flow 19-1687] The current project language is set to VHDL. However IP 'System_auto_us_1' does not support 'VHDL Synthesis' output products, delivering 'Verilog Synthesis' output products instead.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon/s01_couplers/auto_us .
+INFO: [xilinx.com:ip:xfft:9.0-913] /xfft_0 data_format has been set to manual on the GUI. It will not be updated during validation with a propagated value.
+INFO: [xilinx.com:ip:xfft:9.0-913] /xfft_0 input_width has been set to manual on the GUI. It will not be updated during validation with a propagated value.
+CRITICAL WARNING: [BD 41-759] The input pins (listed below) are either not connected or do not have a source port, and they don't have a tie-off specified. 
+Please check your design and connect them if needed: 
+/xfft_0/s_axis_config_tdata
+/xfft_0/s_axis_config_tvalid
+
+INFO: [BD 41-1378] This design does not contain any "MEMORY" mapped segment for processor processing_system7_0
+INFO: [BD 41-1378] This design does not contain any "MEMORY" mapped segment for processor processing_system7_0
+INFO: [BD 41-1378] This design does not contain any "MEMORY" mapped segment for processor processing_system7_0
+Generated Block Design Tcl file C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/hw_handoff/System_bd.tcl
+Exporting to file C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/hw_handoff/System.hwh
+WARNING: [BD 41-235] Width mismatch when connecting pin: '/axi_mem_intercon/M00_AXI_bid'(1) to net 'axi_mem_intercon_M00_AXI_BID'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-235] Width mismatch when connecting pin: '/axi_mem_intercon/M00_AXI_rid'(1) to net 'axi_mem_intercon_M00_AXI_RID'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-235] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_WID'(6) to net 'axi_mem_intercon_M00_AXI_WID'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-235] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_ARID'(6) to net 'axi_mem_intercon_M00_AXI_ARID'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-235] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_AWID'(6) to net 'axi_mem_intercon_M00_AXI_AWID'(1) - Only lower order bits will be connected.
+VHDL Output written to : System.vhd
+VHDL Output written to : System_wrapper.vhd
+Wrote  : <C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/System.bd> 
+INFO: [IP_Flow 19-1706] Not generating 'Synthesis' target for IP 'System_xfft_0_0'. Target already exists and is up to date.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block xfft_0 .
+INFO: [IP_Flow 19-1706] Not generating 'Synthesis' target for IP 'System_processing_system7_0_0'. Target already exists and is up to date.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block processing_system7_0 .
+INFO: [IP_Flow 19-1706] Not generating 'Synthesis' target for IP 'System_axi_dma_0_0'. Target already exists and is up to date.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_dma_0 .
+INFO: [IP_Flow 19-1706] Not generating 'Synthesis' target for IP 'System_rst_processing_system7_0_100M_0'. Target already exists and is up to date.
+INFO: [IP_Flow 19-1706] Not generating 'Implementation' target for IP 'System_rst_processing_system7_0_100M_0'. Target already exists and is up to date.
+INFO: [IP_Flow 19-1706] Not generating 'Implementation' target for IP 'System_rst_processing_system7_0_100M_0'. Target already exists and is up to date.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block rst_processing_system7_0_100M .
+INFO: [IP_Flow 19-1706] Not generating 'Synthesis' target for IP 'System_SineWave_Rom_0_0'. Target already exists and is up to date.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block SineWave_Rom_0 .
+INFO: [IP_Flow 19-1706] Not generating 'Synthesis' target for IP 'System_xbar_0'. Target already exists and is up to date.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon/xbar .
+INFO: [IP_Flow 19-1706] Not generating 'Synthesis' target for IP 'System_xlconstant_0_0'. Target already exists and is up to date.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block xlconstant_0 .
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'System_auto_pc_0'...
+WARNING: [IP_Flow 19-1687] The current project language is set to VHDL. However IP 'System_auto_pc_0' does not support 'VHDL Synthesis' output products, delivering 'Verilog Synthesis' output products instead.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block processing_system7_0_axi_periph/s00_couplers/auto_pc .
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'System_auto_pc_1'...
+WARNING: [IP_Flow 19-1687] The current project language is set to VHDL. However IP 'System_auto_pc_1' does not support 'VHDL Synthesis' output products, delivering 'Verilog Synthesis' output products instead.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon/m00_couplers/auto_pc .
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'System_auto_us_0'...
+WARNING: [IP_Flow 19-1687] The current project language is set to VHDL. However IP 'System_auto_us_0' does not support 'VHDL Synthesis' output products, delivering 'Verilog Synthesis' output products instead.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon/s00_couplers/auto_us .
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'System_auto_us_1'...
+WARNING: [IP_Flow 19-1687] The current project language is set to VHDL. However IP 'System_auto_us_1' does not support 'VHDL Synthesis' output products, delivering 'Verilog Synthesis' output products instead.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon/s01_couplers/auto_us .
+[Tue Jun 23 00:13:57 2015] Launched synth_1...
+Run output will be captured here: C:/Users/Dan/Desktop/Ahmed/FFT/FFT.runs/synth_1/runme.log
+launch_runs: Time (s): cpu = 00:00:50 ; elapsed = 00:00:53 . Memory (MB): peak = 1165.094 ; gain = 58.297
+reset_run impl_1
+launch_runs impl_1 -to_step write_bitstream
+[Tue Jun 23 00:27:37 2015] Launched impl_1...
+Run output will be captured here: C:/Users/Dan/Desktop/Ahmed/FFT/FFT.runs/impl_1/runme.log
+file copy -force C:/Users/Dan/Desktop/Ahmed/FFT/FFT.runs/impl_1/System_wrapper.sysdef C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+INFO: [Vivado 12-393] Launching SDK...
+INFO: [Vivado 12-417] Running xsdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+INFO: [Vivado 12-3157] SDK launch initiated. Please check console for any further messages.
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Jun 23 02:03:12 2015...

@@ -1,0 +1,2811 @@
+23:38:02 **** Build of project Project_1_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/axidma_v8_0/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axidma_v8_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_2/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_1/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v2_2/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v2_2/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_1/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v2_1/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_0/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_0/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v2_3/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v4_2/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v4_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/ttcps_v2_0/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ttcps_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v2_2/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_2/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_1/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make libs in ps7_cortexa9_0/libsrc/axidma_v8_0/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axidma_v8_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling axidma"
+arm-xilinx-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_2/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_1/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v2_2/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v2_2/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_1/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v2_1/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_0/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_0/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v2_3/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v4_2/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v4_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling standalone"
+"Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v2_0/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ttcps_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling ttcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v2_2/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_2/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_1/src"
+C:/Xilinx/SDK/2014.4/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling xadcps"
+'Finished building libraries'
+23:38:40 **** Build of configuration Debug for project Project_1 ****
+make all 
+Building file: ../src/helloworld.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+Finished building: ../src/helloworld.c
+ 
+Building file: ../src/platform.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.d" -o "src/platform.o" "../src/platform.c"
+Finished building: ../src/platform.c
+ 
+Building target: Project_1.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: Project_1.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22920	   1152	  22564	  46636	   b62c	Project_1.elf
+Finished building: Project_1.elf.size
+ 
+23:47:41 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+Building file: ../src/helloworld.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:96:15: warning: unused variable 'dma_size' [-Wunused-variable]
+  unsigned int dma_size = SIZE * sizeof(float);
+               ^
+../src/helloworld.c:95:29: warning: unused variable 'Result2' [-Wunused-variable]
+  static float Result1[SIZE],Result2[SIZE];
+                             ^
+../src/helloworld.c:95:15: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static float Result1[SIZE],Result2[SIZE];
+               ^
+../src/helloworld.c:94:8: warning: unused variable 'A' [-Wunused-variable]
+  float A[SIZE]={1,2,3,4,5,6,7,8,9,10};
+        ^
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+../src/helloworld.c:91:69: warning: unused variable 'run_time_sw' [-Wunused-variable]
+  unsigned int init_time, curr_time, calibration,begin_time,end_time,run_time_sw;
+                                                                     ^
+../src/helloworld.c:91:60: warning: unused variable 'end_time' [-Wunused-variable]
+  unsigned int init_time, curr_time, calibration,begin_time,end_time,run_time_sw;
+                                                            ^
+../src/helloworld.c:91:49: warning: unused variable 'begin_time' [-Wunused-variable]
+  unsigned int init_time, curr_time, calibration,begin_time,end_time,run_time_sw;
+                                                 ^
+../src/helloworld.c:91:37: warning: unused variable 'calibration' [-Wunused-variable]
+  unsigned int init_time, curr_time, calibration,begin_time,end_time,run_time_sw;
+                                     ^
+../src/helloworld.c:91:26: warning: unused variable 'curr_time' [-Wunused-variable]
+  unsigned int init_time, curr_time, calibration,begin_time,end_time,run_time_sw;
+                          ^
+../src/helloworld.c:91:15: warning: unused variable 'init_time' [-Wunused-variable]
+  unsigned int init_time, curr_time, calibration,begin_time,end_time,run_time_sw;
+               ^
+Finished building: ../src/helloworld.c
+ 
+Building target: Project_1.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: Project_1.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31952	   1216	  56996	  90164	  16034	Project_1.elf
+Finished building: Project_1.elf.size
+ 
+23:48:28 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+Building file: ../src/helloworld.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:94:15: warning: unused variable 'dma_size' [-Wunused-variable]
+  unsigned int dma_size = SIZE * sizeof(float);
+               ^
+../src/helloworld.c:93:13: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+Finished building: ../src/helloworld.c
+ 
+Building target: Project_1.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: Project_1.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31568	   1216	  40612	  73396	  11eb4	Project_1.elf
+Finished building: Project_1.elf.size
+ 
+23:48:44 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+Building file: ../src/helloworld.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:13: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+Finished building: ../src/helloworld.c
+ 
+Building target: Project_1.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: Project_1.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31568	   1216	  40612	  73396	  11eb4	Project_1.elf
+Finished building: Project_1.elf.size
+ 
+23:51:10 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+Building file: ../src/helloworld.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:13: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+Finished building: ../src/helloworld.c
+ 
+Building target: Project_1.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: Project_1.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31568	   1216	  40612	  73396	  11eb4	Project_1.elf
+Finished building: Project_1.elf.size
+ 
+16:01:42 **** Clean-only build of configuration Debug for project Project_1 ****
+make clean 
+rm -rf  ./src/helloworld.o ./src/platform.o  ./src/helloworld.d ./src/platform.d  Project_1.elf.size  Project_1.elf
+' '
+16:01:43 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:13: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.d" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31568	   1216	  40612	  73396	  11eb4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+16:21:44 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:13: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31568	   1216	  40612	  73396	  11eb4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+16:24:11 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+16:25:35 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+16:27:49 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+16:32:19 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+16:34:03 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:13: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31568	   1216	  40612	  73396	  11eb4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+16:34:11 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+16:46:29 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:08:28 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:94:13: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31552	   1216	  40612	  73380	  11ea4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+17:08:56 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:09:49 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:10:43 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:11:45 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:13:31 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:14:38 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:15:09 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:16:59 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:94:13: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31556	   1216	  40612	  73384	  11ea8	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+17:17:05 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:25:26 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:95:13: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31620	   1216	  40612	  73448	  11ee8	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+17:25:29 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:29:29 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:95:13: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:94:9: warning: variable 'im' set but not used [-Wunused-but-set-variable]
+  int re,im;
+         ^
+../src/helloworld.c:94:6: warning: variable 're' set but not used [-Wunused-but-set-variable]
+  int re,im;
+      ^
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31540	   1216	  40612	  73368	  11e98	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+17:29:34 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:31:25 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31688	   1216	  40612	  73516	  11f2c	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+17:31:29 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:32:21 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31688	   1216	  40612	  73516	  11f2c	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+17:32:24 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:33:34 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:34:01 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:34:27 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:34:55 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:35:28 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:40:51 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31756	   1216	  40612	  73584	  11f70	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+17:40:57 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:42:07 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:42:39 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:43:42 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31756	   1216	  40612	  73584	  11f70	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+17:43:50 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:44:44 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:45:09 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:46:06 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:47:05 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31756	   1216	  40612	  73584	  11f70	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+17:47:18 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31692	   1216	  40612	  73520	  11f30	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+17:47:24 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:47:47 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:48:19 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:48:51 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:50:04 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:51:13 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:52:24 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31716	   1216	  40612	  73544	  11f48	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+17:52:46 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31716	   1216	  40612	  73544	  11f48	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+17:52:52 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:53:26 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:53:55 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:54:49 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31780	   1216	  40612	  73608	  11f88	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+17:54:55 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:55:57 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:57:11 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31716	   1216	  40612	  73544	  11f48	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+17:57:48 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:58:21 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:58:54 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+17:59:40 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:02:02 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:02:32 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:03:06 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:03:34 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:04:15 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:05:19 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:06:16 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:07:23 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:09:13 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:09:52 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:10:36 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31716	   1216	  40612	  73544	  11f48	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+18:10:42 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:10:58 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:11:28 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:12:40 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:13:27 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31716	   1216	  40612	  73544	  11f48	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+18:13:46 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:14:45 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:15:20 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:16:08 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:18:04 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31716	   1216	  40612	  73544	  11f48	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+18:18:15 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:18:48 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31716	   1216	  40612	  73544	  11f48	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+18:19:17 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:19:49 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:22:47 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31716	   1216	  40612	  73544	  11f48	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+18:23:26 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:24:28 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:31:18 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:15: warning: unused variable 'k' [-Wunused-variable]
+  int temp,i,j,k=0;
+               ^
+../src/helloworld.c:93:6: warning: unused variable 'temp' [-Wunused-variable]
+  int temp,i,j,k=0;
+      ^
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31588	   1216	  40612	  73416	  11ec8	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+18:31:48 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:47:30 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:47:48 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:48:12 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:49:03 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:49:24 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+18:49:34 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:15: warning: unused variable 'k' [-Wunused-variable]
+  int temp,i,j,k=0;
+               ^
+../src/helloworld.c:93:6: warning: unused variable 'temp' [-Wunused-variable]
+  int temp,i,j,k=0;
+      ^
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31588	   1216	  40612	  73416	  11ec8	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+18:50:53 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+19:03:51 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+19:07:20 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:119:9: error: expected ';' before 'xil_printf'
+         xil_printf("j=%d : re = %d; im = %d  ", j, re, im);
+         ^
+../src/helloworld.c:93:15: warning: unused variable 'k' [-Wunused-variable]
+  int temp,i,j,k=0;
+               ^
+../src/helloworld.c:93:6: warning: unused variable 'temp' [-Wunused-variable]
+  int temp,i,j,k=0;
+      ^
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+make: *** [src/helloworld.o] Error 1
+19:07:29 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:15: warning: unused variable 'k' [-Wunused-variable]
+  int temp,i,j,k=0;
+               ^
+../src/helloworld.c:93:6: warning: unused variable 'temp' [-Wunused-variable]
+  int temp,i,j,k=0;
+      ^
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31628	   1216	  40612	  73456	  11ef0	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+19:08:08 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+19:08:26 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+19:08:45 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+19:09:51 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+19:10:39 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+19:11:41 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+19:15:14 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+19:16:17 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+19:16:42 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+19:18:07 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+19:18:55 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+19:29:43 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+19:30:27 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+19:31:00 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+20:53:23 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+20:54:05 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+20:59:01 **** Build of project Project_1_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/axidma_v8_0/src"
+make -C ps7_cortexa9_0/libsrc/axidma_v8_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_2/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_1/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v4_2/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v4_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/ttcps_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make libs in ps7_cortexa9_0/libsrc/axidma_v8_0/src"
+make -C ps7_cortexa9_0/libsrc/axidma_v8_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling axidma"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_2/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_1/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v4_2/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v4_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling standalone"
+"Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling ttcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling xadcps"
+'Finished building libraries'
+20:59:38 **** Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:15: warning: unused variable 'k' [-Wunused-variable]
+  int temp,i,j,k=0;
+               ^
+../src/helloworld.c:93:6: warning: unused variable 'temp' [-Wunused-variable]
+  int temp,i,j,k=0;
+      ^
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.d" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31628	   1216	  40612	  73456	  11ef0	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+20:59:59 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:04:34 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:05:18 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:07:46 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:09:27 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:09:57 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:10:40 **** Build of configuration Debug for project Project_2 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.d" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: Project_2.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_2.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_2.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_2.elf  |tee "Project_2.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22920	   1152	  22564	  46636	   b62c	Project_2.elf
+'Finished building: Project_2.elf.size'
+' '
+21:10:52 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:10:52 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:11:09 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:11:09 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:11:36 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:11:36 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:11:48 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:11:48 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:15:28 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:15: warning: unused variable 'k' [-Wunused-variable]
+  int temp,i,j,k=0;
+               ^
+../src/helloworld.c:93:6: warning: unused variable 'temp' [-Wunused-variable]
+  int temp,i,j,k=0;
+      ^
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31628	   1216	  40612	  73456	  11ef0	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+21:15:44 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:15:44 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:16:04 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:16:05 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:16:17 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:16:17 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:16:39 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:16:39 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:17:08 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:17:09 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:18:09 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:18:09 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:18:34 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:18:34 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:18:46 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:18:47 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:32:19 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:95:13: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:94:9: warning: unused variable 'im' [-Wunused-variable]
+  int re,im;
+         ^
+../src/helloworld.c:94:6: warning: unused variable 're' [-Wunused-variable]
+  int re,im;
+      ^
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31632	   1216	  40612	  73460	  11ef4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+21:35:48 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:35:48 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:36:01 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:36:02 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:37:08 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:37:08 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:37:21 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:37:21 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:37:31 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:37:31 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:37:41 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:37:42 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:37:49 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:37:50 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+21:38:08 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+21:38:09 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+22:13:43 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+22:13:44 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+22:14:32 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:95:13: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:94:9: warning: unused variable 'im' [-Wunused-variable]
+  int re,im;
+         ^
+../src/helloworld.c:94:6: warning: unused variable 're' [-Wunused-variable]
+  int re,im;
+      ^
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31568	   1216	  40612	  73396	  11eb4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+22:14:46 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+22:14:47 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+22:15:13 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+22:15:13 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+22:15:33 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+22:15:33 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+22:18:50 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+22:18:51 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+22:26:39 **** Build of project Project_1_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/axidma_v8_0/src"
+make -C ps7_cortexa9_0/libsrc/axidma_v8_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_2/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_1/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v4_2/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v4_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/ttcps_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make libs in ps7_cortexa9_0/libsrc/axidma_v8_0/src"
+make -C ps7_cortexa9_0/libsrc/axidma_v8_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling axidma"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_2/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_1/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v4_2/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v4_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling standalone"
+"Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling ttcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling xadcps"
+'Finished building libraries'
+22:27:15 **** Build of configuration Debug for project Project_2 ****
+make all 
+'Building file: ../src/platform.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.d" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: Project_2.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_2.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_2.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_2.elf  |tee "Project_2.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22920	   1152	  22564	  46636	   b62c	Project_2.elf
+'Finished building: Project_2.elf.size'
+' '
+22:27:18 **** Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:95:13: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:94:9: warning: unused variable 'im' [-Wunused-variable]
+  int re,im;
+         ^
+../src/helloworld.c:94:6: warning: unused variable 're' [-Wunused-variable]
+  int re,im;
+      ^
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.d" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31568	   1216	  40612	  73396	  11eb4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+22:27:45 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+22:27:45 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+22:28:05 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+22:28:06 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+22:30:46 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+22:30:47 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+22:31:12 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+22:31:12 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+22:34:10 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:95:13: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:94:9: warning: unused variable 'im' [-Wunused-variable]
+  int re,im;
+         ^
+../src/helloworld.c:94:6: warning: unused variable 're' [-Wunused-variable]
+  int re,im;
+      ^
+../src/helloworld.c:93:6: warning: variable 'temp' set but not used [-Wunused-but-set-variable]
+  int temp,i,j,k=0;
+      ^
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31672	   1216	  40612	  73500	  11f1c	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+22:34:34 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+22:34:35 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+22:35:41 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:95:13: warning: variable 'Result1' set but not used [-Wunused-but-set-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:94:9: warning: unused variable 'im' [-Wunused-variable]
+  int re,im;
+         ^
+../src/helloworld.c:94:6: warning: unused variable 're' [-Wunused-variable]
+  int re,im;
+      ^
+../src/helloworld.c:93:6: warning: variable 'temp' set but not used [-Wunused-but-set-variable]
+  int temp,i,j,k=0;
+      ^
+../src/helloworld.c:92:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31672	   1216	  40612	  73500	  11f1c	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+22:35:53 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+22:35:54 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:01:38 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'temp' set but not used [-Wunused-but-set-variable]
+  int temp,i,j;
+      ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31568	   1216	  40612	  73396	  11eb4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+01:02:34 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:02:34 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:14:41 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:92:6: warning: variable 'temp' set but not used [-Wunused-but-set-variable]
+  int temp,i,j;
+      ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31616	   1216	  40612	  73444	  11ee4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+01:14:48 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:14:49 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:15:26 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:15:27 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:15:54 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:15:54 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:24:52 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:6: warning: unused variable 'k' [-Wunused-variable]
+  int k = 0;
+      ^
+../src/helloworld.c:92:6: warning: variable 'temp' set but not used [-Wunused-but-set-variable]
+  int temp,i,j;
+      ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31632	   1216	  40612	  73460	  11ef4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+01:25:02 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:25:03 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:25:30 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:25:31 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:26:05 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:26:05 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:26:25 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:26:26 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:27:09 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:27:10 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:28:18 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:28:18 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:29:21 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:29:21 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:29:38 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:29:38 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:34:11 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:34:12 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:34:29 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:34:29 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:45:35 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:45:36 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:45:47 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:45:47 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:46:02 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:46:03 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:54:51 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:6: warning: unused variable 'k' [-Wunused-variable]
+  int k = 0;
+      ^
+../src/helloworld.c:92:6: warning: variable 'temp' set but not used [-Wunused-but-set-variable]
+  int temp,i,j;
+      ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31632	   1216	  40612	  73460	  11ef4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+01:55:17 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:55:18 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:55:49 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:55:49 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:56:23 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:56:23 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+01:56:39 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+01:56:39 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:01:52 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:01:53 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:02:08 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:02:08 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:03:11 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:6: warning: unused variable 'k' [-Wunused-variable]
+  int k = 0;
+      ^
+../src/helloworld.c:92:6: warning: variable 'temp' set but not used [-Wunused-but-set-variable]
+  int temp,i,j;
+      ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31632	   1216	  40612	  73460	  11ef4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+02:03:20 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:03:20 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:03:45 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:03:46 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:03:56 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:03:57 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:04:04 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:04:04 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:04:30 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:04:30 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:05:11 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:05:12 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:05:30 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:05:30 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:05:45 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:05:45 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:06:23 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:6: warning: unused variable 'k' [-Wunused-variable]
+  int k = 0;
+      ^
+../src/helloworld.c:92:6: warning: variable 'temp' set but not used [-Wunused-but-set-variable]
+  int temp,i,j;
+      ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31632	   1216	  40612	  73460	  11ef4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+02:06:28 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:06:29 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:07:13 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:6: warning: unused variable 'k' [-Wunused-variable]
+  int k = 0;
+      ^
+../src/helloworld.c:92:6: warning: variable 'temp' set but not used [-Wunused-but-set-variable]
+  int temp,i,j;
+      ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31632	   1216	  40612	  73460	  11ef4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+02:07:27 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:07:27 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:11:10 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:6: warning: unused variable 'k' [-Wunused-variable]
+  int k = 0;
+      ^
+../src/helloworld.c:92:6: warning: variable 'temp' set but not used [-Wunused-but-set-variable]
+  int temp,i,j;
+      ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31632	   1216	  40612	  73460	  11ef4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+02:11:16 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:11:17 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:11:54 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:11:55 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:12:39 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:12:40 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:14:43 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:14:44 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:14:50 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:6: warning: unused variable 'k' [-Wunused-variable]
+  int k = 0;
+      ^
+../src/helloworld.c:92:6: warning: variable 'temp' set but not used [-Wunused-but-set-variable]
+  int temp,i,j;
+      ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31632	   1216	  40612	  73460	  11ef4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+02:14:59 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:15:00 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:18:32 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:13: warning: unused variable 'Result1' [-Wunused-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31632	   1216	  40612	  73460	  11ef4	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+02:19:49 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:19:50 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:20:05 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:20:06 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:20:45 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:20:46 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:21:44 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:21:44 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:23:51 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:13: warning: unused variable 'Result1' [-Wunused-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31696	   1216	  40612	  73524	  11f34	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+02:24:00 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:24:00 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:24:55 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:13: warning: unused variable 'Result1' [-Wunused-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31696	   1216	  40612	  73524	  11f34	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+02:25:02 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:25:03 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:25:48 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:13: warning: unused variable 'Result1' [-Wunused-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31696	   1216	  40612	  73524	  11f34	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+02:26:55 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:26:56 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:32:03 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:32:03 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:34:27 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:34:27 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:35:10 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:35:10 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:38:56 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:38:57 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:39:33 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:39:33 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:43:36 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:13: warning: unused variable 'Result1' [-Wunused-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31504	   1216	  40612	  73332	  11e74	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+02:43:49 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:43:50 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:46:02 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:46:03 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:46:20 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:46:20 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:46:46 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:46:46 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:46:57 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:46:58 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:48:24 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:13: warning: unused variable 'Result1' [-Wunused-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31504	   1216	  40612	  73332	  11e74	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+02:48:32 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:48:32 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:49:09 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:49:10 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:49:30 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:49:31 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:49:59 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:49:59 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:53:41 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:13: warning: unused variable 'Result1' [-Wunused-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31504	   1216	  40612	  73332	  11e74	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+02:53:50 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:53:51 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:55:10 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:55:11 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:55:30 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:55:31 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:56:00 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:56:00 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:56:22 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:56:22 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+02:58:54 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+02:58:55 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+03:00:04 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+03:00:04 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+14:10:20 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+14:10:21 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+00:32:55 **** Build of project Project_1_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/axidma_v8_0/src"
+make -C ps7_cortexa9_0/libsrc/axidma_v8_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_2/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_1/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v4_2/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v4_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/ttcps_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make libs in ps7_cortexa9_0/libsrc/axidma_v8_0/src"
+make -C ps7_cortexa9_0/libsrc/axidma_v8_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling axidma"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_2/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_1/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v4_2/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v4_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling standalone"
+"Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling ttcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling xadcps"
+'Finished building libraries'
+00:33:32 **** Build of configuration Debug for project Project_2 ****
+make all 
+'Building file: ../src/platform.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.d" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: Project_2.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_2.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_2.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_2.elf  |tee "Project_2.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22920	   1152	  22564	  46636	   b62c	Project_2.elf
+'Finished building: Project_2.elf.size'
+' '
+00:33:35 **** Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:93:13: warning: unused variable 'Result1' [-Wunused-variable]
+  static int Result1[SIZE];
+             ^
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.d" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31504	   1216	  40612	  73332	  11e74	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+00:51:37 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:99:5: error: 'status' undeclared (first use in this function)
+     status = XAxiDma_SimpleTransfer(&AxiDma, 0xa000000, 1023,XAXIDMA_DEVICE_TO_DMA);
+     ^
+../src/helloworld.c:99:5: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/helloworld.o] Error 1
+00:51:46 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31504	   1216	  24228	  56948	   de74	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+00:52:57 **** Incremental Build of configuration Debug for project Project_2 ****
+make all 
+make: Nothing to be done for `all'.
+00:52:57 **** Incremental Build of configuration Debug for project Project_1 ****
+make all 
+make: Nothing to be done for `all'.
+03:30:30 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31504	   1216	  24228	  56948	   de74	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+03:31:46 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31504	   1216	  24228	  56948	   de74	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '

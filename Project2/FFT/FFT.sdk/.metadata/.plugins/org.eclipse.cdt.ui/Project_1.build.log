@@ -1,0 +1,25 @@
+03:31:46 **** Auto Build of configuration Debug for project Project_1 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../Project_1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:91:6: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+  int status;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Project_1.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../Project_1_bsp/ps7_cortexa9_0/lib -o "Project_1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Project_1.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size Project_1.elf  |tee "Project_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31504	   1216	  24228	  56948	   de74	Project_1.elf
+'Finished building: Project_1.elf.size'
+' '
+
+03:31:47 Build Finished (took 1s.560ms)
+

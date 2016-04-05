@@ -1,0 +1,76 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Sun Jun 21 21:03:01 2015
+# Process ID: 8792
+# Log file: C:/Users/Dan/Desktop/Ahmed/FFT/vivado.log
+# Journal file: C:/Users/Dan/Desktop/Ahmed/FFT\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Dan/Desktop/Ahmed/FFT/FFT.xpr
+open_bd_design {C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/System.bd}
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+delete_bd_objs [get_bd_intf_nets xfft_0_M_AXIS_DATA]
+delete_bd_objs [get_bd_intf_nets SineWave_Rom_0_M00_AXIS]
+connect_bd_intf_net [get_bd_intf_pins SineWave_Rom_0/M00_AXIS] [get_bd_intf_pins axi_dma_0/S_AXIS_S2MM]
+save_bd_design
+generate_target all [get_files  C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/System.bd]
+ipx::edit_ip_in_project -upgrade true -name SineWave_Rom_v1_0_project -directory C:/Users/Dan/Desktop/Ahmed/SineWave_Rom_1.0/SineWave_Rom_v1_0_project c:/Users/Dan/Desktop/Ahmed/SineWave_Rom_1.0/component.xml
+update_compile_order -fileset sim_1
+launch_runs synth_1
+wait_on_run synth_1
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_ip_instances -delete_project true
+generate_target all [get_files  C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/System.bd]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+open_run impl_1
+file copy -force C:/Users/Dan/Desktop/Ahmed/FFT/FFT.runs/impl_1/System_wrapper.sysdef C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+open_bd_design {C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/System.bd}
+delete_bd_objs [get_bd_intf_nets SineWave_Rom_0_M00_AXIS]
+connect_bd_intf_net [get_bd_intf_pins SineWave_Rom_0/M00_AXIS] [get_bd_intf_pins xfft_0/S_AXIS_DATA]
+connect_bd_intf_net [get_bd_intf_pins xfft_0/M_AXIS_DATA] [get_bd_intf_pins axi_dma_0/S_AXIS_S2MM]
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:ip:xlconstant:1.1 xlconstant_0
+endgroup
+connect_bd_net [get_bd_pins xlconstant_0/dout] [get_bd_pins axi_dma_0/s_axis_s2mm_tkeep]
+startgroup
+set_property -dict [list CONFIG.CONST_WIDTH {4} CONFIG.CONST_VAL {15}] [get_bd_cells xlconstant_0]
+endgroup
+save_bd_design
+generate_target all [get_files  C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/System.bd]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+file copy -force C:/Users/Dan/Desktop/Ahmed/FFT/FFT.runs/impl_1/System_wrapper.sysdef C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
+update_ip_catalog -rebuild
+open_bd_design {C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/System.bd}
+open_bd_design {C:/Users/Dan/Desktop/Ahmed/FFT/FFT.srcs/sources_1/bd/System/System.bd}
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+validate_bd_design
+save_bd_design
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+launch_sdk -workspace C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk -hwspec C:/Users/Dan/Desktop/Ahmed/FFT/FFT.sdk/System_wrapper.hdf
