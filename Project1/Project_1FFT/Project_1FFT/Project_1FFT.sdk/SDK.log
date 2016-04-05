@@ -1,0 +1,23 @@
+23:05:33 INFO  : Processing command line option -hwspec G:/MS5LuniAjun/Project_1FFT/Project_1FFT/Project_1FFT.sdk/design_1_wrapper.hdf.
+23:05:41 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+23:10:28 INFO  : FPGA configured successfully with bitstream "G:/MS5LuniAjun/Project_1FFT/Project_1FFT/Project_1FFT.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+23:12:50 INFO  : FPGA configured successfully with bitstream "G:/MS5LuniAjun/Project_1FFT/Project_1FFT/Project_1FFT.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+23:13:51 INFO  : Processor reset is completed for ps7_cortexa9_0
+23:14:25 INFO  : FPGA configured successfully with bitstream "G:/MS5LuniAjun/Project_1FFT/Project_1FFT/Project_1FFT.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+23:15:12 INFO  : ps7_init is completed.
+23:15:12 INFO  : ps7_post_config is completed.
+23:15:12 INFO  : Processor reset is completed for ps7_cortexa9_0
+23:17:15 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+23:18:15 INFO  : Processing command line option -hwspec G:/MS5LuniAjun/Project_1FFT/Project_1FFT/Project_1FFT.sdk/design_1_wrapper.hdf.
+23:18:17 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+23:18:17 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+02:05:18 INFO  : Processing command line option -hwspec G:/MS5LuniAjun/Project_1FFT/Project_1FFT/Project_1FFT.sdk/design_1_wrapper.hdf.
+02:05:19 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+02:05:20 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+02:26:55 INFO  : FPGA configured successfully with bitstream "G:/MS5LuniAjun/Project_1FFT/Project_1FFT/Project_1FFT.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+02:27:05 INFO  : ps7_init is completed.
+02:27:05 INFO  : ps7_post_config is completed.
+02:27:05 INFO  : Processor reset is completed for ps7_cortexa9_0
+02:27:45 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+02:27:47 INFO  : Processor reset is completed for ps7_cortexa9_0
+02:28:20 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 

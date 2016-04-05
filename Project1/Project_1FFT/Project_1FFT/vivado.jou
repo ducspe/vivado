@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Tue Jun 23 02:04:47 2015
+# Process ID: 9776
+# Log file: G:/MS5LuniAjun/Project_1FFT/Project_1FFT/vivado.log
+# Journal file: G:/MS5LuniAjun/Project_1FFT/Project_1FFT\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project G:/MS5LuniAjun/Project_1FFT/Project_1FFT/Project_1FFT.xpr
+launch_sdk -workspace G:/MS5LuniAjun/Project_1FFT/Project_1FFT/Project_1FFT.sdk -hwspec G:/MS5LuniAjun/Project_1FFT/Project_1FFT/Project_1FFT.sdk/design_1_wrapper.hdf
